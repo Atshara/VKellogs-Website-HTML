@@ -1,4 +1,4 @@
-A simple eccommerce website example html only
+A VKellogs eccommerce website example made with HTML and CSS
 
 © 2023 WK Kellogg Co © 2023 Kellanova
 
