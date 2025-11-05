@@ -1,4 +1,4 @@
-# Simple-Ecommerce-Website-HTML
+# Vkellogs-Website-HTML
 A simple eccommerce website example html only
 
 © 2023 WK Kellogg Co
